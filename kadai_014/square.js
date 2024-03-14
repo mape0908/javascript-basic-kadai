@@ -1,3 +1,5 @@
-const num = Math.pow(10, 2);
+const calculateTotal = (num) => {
+console.log(num ** 2);
+}
 
-console.log(num);
+calculateTotal(10);
